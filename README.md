@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Federico Matteoni (Main profile @fexed)
+- 👀 I’m interested in Android & iOS development
+- 📱 I’m currently working as a mobile native developer @ Navionics
+- 📫 Reach me on federico.matteoni@garmin.com
